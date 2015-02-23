@@ -1,5 +1,5 @@
 {
-  "name": "sketch-framer-boilerplate",
+  "name": "sketch-framer-template",
   "version": "1.0.0",
   "description": "",
   "devDependencies": {
@@ -10,5 +10,5 @@
     "gulp-util": "^3.0.1",
     "gulp-watch": "^3.0.0"
   },
-  "author": "Darrin Henein"
+  "author": "Anders Thid"
 }
